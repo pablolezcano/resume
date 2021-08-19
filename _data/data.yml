@@ -47,7 +47,10 @@ education:
       university: Autodidacta
       time: 2020 - Presente
       details: |
-        Estoy aprendiendo de manera autodidacta diferentes lenguajes y frameworks.
+        Estoy aprendiendo de manera autodidacta diferentes lenguajes y frameworks.   
+    - degree: Licenciatura en Diseño Industrial.
+      university: UBA FADU
+      time: 2019 - 2020
 experiences:
     - role: Desarrollador
       time: 2020 - Presente
