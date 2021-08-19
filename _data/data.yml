@@ -38,7 +38,7 @@ career-profile:
       Iniciativa y capacidad de organización.
 
 education:
-    - degree: Inglés
+    - degree: Curso de Inglés.
       university: GOidiomas
       time: 2021 - Presente
       details: |
@@ -51,6 +51,9 @@ education:
     - degree: Licenciatura en Diseño Industrial.
       university: UBA FADU
       time: 2019 - 2020
+    - degree: Técnico Electromecánico.
+      university: E.E.S.T N°1 Bme Mitre Ex Industrial, Pergamino
+      time: 2010 - 2018
 experiences:
     - role: Desarrollador
       time: 2020 - Presente
